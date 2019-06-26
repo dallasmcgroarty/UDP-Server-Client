@@ -8,8 +8,6 @@ Server sets up and holds a file and waits for client to send a LIST message, the
 Ran on linux or windows machine, python in windows, python3 on linux. 
 
 Run server in terminal: python3 SectionServer.py testfile.gz
-Run client in terminal: python3 SectionClient.py localhost testfile.gz
 
-Section Server coded by me, Dallas McGroarty.
-Section Client was given to work off of.
+Run client in terminal: python3 SectionClient.py localhost testfile.gz
 
